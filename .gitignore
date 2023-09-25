@@ -1,0 +1,6 @@
+sp_sales_task/
+.git/
+.ipynb_checkpoints/
+*.docx
+*.7z
+*.csv
