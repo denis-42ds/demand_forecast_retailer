@@ -1,6 +1,9 @@
+catboost_info/
 sp_sales_task/
 .git/
 .ipynb_checkpoints/
 *.docx
 *.7z
 *.csv
+*.gitignore
+app_hw.py
