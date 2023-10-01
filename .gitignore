@@ -4,6 +4,6 @@ sp_sales_task/
 .ipynb_checkpoints/
 *.docx
 *.7z
-*.csv
+holidays_covid_calendar.csv
 *.gitignore
 app_hw.py
