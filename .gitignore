@@ -5,5 +5,4 @@ sp_sales_task/
 *.docx
 *.7z
 holidays_covid_calendar.csv
-*.gitignore
-app_hw.py
+app/app_hw.py
