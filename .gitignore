@@ -6,3 +6,4 @@ sp_sales_task/
 *.7z
 holidays_covid_calendar.csv
 app/app_hw.py
+app/app_test.py

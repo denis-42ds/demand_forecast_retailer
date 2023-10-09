@@ -63,7 +63,7 @@ def get_categs_info():
 
 
 def main(today=date.today()):
-    forecast_dates = [today + timedelta(days=d) for d in range(1, 6)]
+    forecast_dates = [today + timedelta(days=d) for d in range(1, 13)]
     forecast_dates = [el.strftime("%Y-%m-%d") for el in forecast_dates]
     categs_info = get_categs_info()
     for store in get_stores():
